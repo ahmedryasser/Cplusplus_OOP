@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/University/Year 1/Spring/CoSc 121/ContactNode/ContactNode.cpp
+iostream
+-
+ContactNode.h
+D:/University/Year 1/Spring/CoSc 121/ContactNode/ContactNode.h
+
+D:/University/Year 1/Spring/CoSc 121/ContactNode/ContactNode.h
+iostream
+-
+
