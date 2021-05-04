@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/University/Year 1/Spring/CoSc 121/Queue/Queue.h
+iostream
+-
+
+D:/University/Year 1/Spring/CoSc 121/Queue/main.cpp
+iostream
+-
+Queue.h
+D:/University/Year 1/Spring/CoSc 121/Queue/Queue.h
+

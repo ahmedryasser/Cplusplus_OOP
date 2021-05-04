@@ -1,0 +1,3 @@
+"D:\Program Files\CLion 2019.3.2\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\PlaylistNode.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\PlaylistNode.dir/objects.a @CMakeFiles\PlaylistNode.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\PlaylistNode.dir/objects.a -Wl,--no-whole-archive  -o PlaylistNode.exe -Wl,--out-implib,libPlaylistNode.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\PlaylistNode.dir\linklibs.rsp
