@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/University/Year 1/Spring/CoSc 121/TreeP/Tree.cpp
+Tree.h
+D:/University/Year 1/Spring/CoSc 121/TreeP/Tree.h
+
+D:/University/Year 1/Spring/CoSc 121/TreeP/Tree.h
+iostream
+-
+
+D:/University/Year 1/Spring/CoSc 121/TreeP/main.cpp
+iostream
+-
+Tree.h
+D:/University/Year 1/Spring/CoSc 121/TreeP/Tree.h
+

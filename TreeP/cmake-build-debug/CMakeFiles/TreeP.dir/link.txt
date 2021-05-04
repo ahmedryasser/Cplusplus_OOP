@@ -1,0 +1,3 @@
+"D:\Program Files\CLion 2019.3.2\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\TreeP.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\TreeP.dir/objects.a @CMakeFiles\TreeP.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\TreeP.dir/objects.a -Wl,--no-whole-archive  -o TreeP.exe -Wl,--out-implib,libTreeP.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\TreeP.dir\linklibs.rsp
