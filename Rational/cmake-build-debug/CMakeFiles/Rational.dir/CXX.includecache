@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/University/Year 1/Spring/CoSc 121/Rational/Rational.cpp
+Rational.h
+D:/University/Year 1/Spring/CoSc 121/Rational/Rational.h
+
+D:/University/Year 1/Spring/CoSc 121/Rational/Rational.h
+stdio.h
+-
+iostream
+-
+cassert
+-
+
+D:/University/Year 1/Spring/CoSc 121/Rational/main.cpp
+Rational.h
+D:/University/Year 1/Spring/CoSc 121/Rational/Rational.h
+iostream
+-
+
