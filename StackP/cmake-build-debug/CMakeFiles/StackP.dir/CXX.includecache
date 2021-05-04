@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/University/Year 1/Spring/CoSc 121/StackP/Stack.h
+iostream
+D:/University/Year 1/Spring/CoSc 121/StackP/iostream
+
+D:/University/Year 1/Spring/CoSc 121/StackP/main.cpp
+Stack.h
+D:/University/Year 1/Spring/CoSc 121/StackP/Stack.h
+

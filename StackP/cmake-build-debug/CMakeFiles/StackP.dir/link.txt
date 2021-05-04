@@ -1,0 +1,3 @@
+"D:\Program Files\CLion 2019.3.2\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\StackP.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\StackP.dir/objects.a @CMakeFiles\StackP.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\StackP.dir/objects.a -Wl,--no-whole-archive  -o StackP.exe -Wl,--out-implib,libStackP.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\StackP.dir\linklibs.rsp
