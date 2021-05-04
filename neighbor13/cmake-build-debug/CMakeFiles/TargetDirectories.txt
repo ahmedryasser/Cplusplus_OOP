@@ -1,0 +1,3 @@
+D:/University/Year 1/Spring/CoSc 121/neighbor13/cmake-build-debug/CMakeFiles/neighbor13.dir
+D:/University/Year 1/Spring/CoSc 121/neighbor13/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/University/Year 1/Spring/CoSc 121/neighbor13/cmake-build-debug/CMakeFiles/rebuild_cache.dir
