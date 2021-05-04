@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/University/Year 1/Spring/CoSc 121/states/State.h
+iostream
+-
+map
+-
+
+D:/University/Year 1/Spring/CoSc 121/states/main.cpp
+iostream
+-
+State.h
+D:/University/Year 1/Spring/CoSc 121/states/State.h
+
